@@ -1,4 +1,5 @@
 #include<stdio.h>
+//输入n(n<100)个数，找出其中最小的数，将它与最前面的数交换后输出这些数。 
 int main ()
 {
 	int n,data[100],i,min,x,mark;

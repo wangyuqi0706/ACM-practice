@@ -1,4 +1,5 @@
 #include<stdio.h> 
+//对于表达式n^2+n+41，当n在（x,y）范围内取整数值时（包括x,y）(-39<=x<y<=50)，判定该表达式的值是否都为素数。
 int main()
 {
 	int x,y,n,i,isPrime=1,allprime=1,num;
